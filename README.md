@@ -19,10 +19,12 @@ NOTICE
   5. Execute RunMe.bat and wait for the process to end. Usually it takes about 30 seconds.
 
 
-   My version is different from what this text shows! How can I fix that?
-   Download changer file for your version, copy it to the directory where you put .ttf fonts and Run changer file. Make sure you have already changed the name of fonts before executing changer.
+My version is different from what this text shows! How can I fix that?
+  Download changer file for your version, copy it to the directory where you put .ttf fonts and Run changer file. Make sure you have already changed the name of fonts before executing changer.
+  
   
 Currently only English is supported. If you have any interest in localization, please send an e-mail to me at readinggate0120@gmail.com
+
 
 -changelog-
  
