@@ -1,3 +1,5 @@
+color f1
+mode con cols=80 lines=20
 move killfeed.ttf C:\Users\User\AppData\Local\Roblox\Versions\version-49e05c4106b541bf\content\fonts\arial.ttf
 move killfeed.ttf C:\Users\User\AppData\Local\Roblox\Versions\version-49e05c4106b541bf\content\fonts\arialbd.ttf
 move ui.ttf C:\Users\User\AppData\Local\Roblox\Versions\version-49e05c4106b541bf\content\fonts\SourceSansPro-Bold.ttf
