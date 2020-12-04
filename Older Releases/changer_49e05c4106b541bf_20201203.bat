@@ -8,12 +8,12 @@ echo             This Is Not The Latest Version. Proceed with caution.
 set /p confirm=Please Press Y Then Enter To Proceed, Press Other Key To Quit : 
 echo.
 
+
 if "%confirm%"=="y" goto EXECUTE
 if not "%confirm%"=="y" goto ABORT
 
 
-
-
+:EXECUTE
 color f1
 mode con cols=80 lines=20
 move killfeed.ttf C:\Users\User\AppData\Local\Roblox\Versions\version-49e05c4106b541bf\content\fonts\arial.ttf
@@ -24,4 +24,9 @@ move ui.ttf C:\Users\User\AppData\Local\Roblox\Versions\version-49e05c4106b541bf
 move ui.ttf C:\Users\User\AppData\Local\Roblox\Versions\version-49e05c4106b541bf\content\fonts\SourceSansPro-Regular.ttf
 move ui.ttf C:\Users\User\AppData\Local\Roblox\Versions\version-49e05c4106b541bf\content\fonts\SourceSansPro-Semibold.ttf
 start delete.bat
+exit
+
+:ABORT
+echo Process Aborted By User Request. Terminating..
+timeout 3 /nobreak
 exit
