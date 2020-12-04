@@ -20,7 +20,7 @@ Currently Newest Version: 49e05c4106b541bf released on 2020.12.03
 
 
    My version is different from what this text shows! How can I fix that?
-  Download changer file for your version, copy it to the directory where you put .ttf fonts and Run changer file. Make sure you have already changed the name of fonts before executing changer.
+   Download changer file for your version, copy it to the directory where you put .ttf fonts and Run changer file. Make sure you have already changed the name of fonts before executing changer.
   
 Currently only English is supported. If you have any interest in localization, please send an e-mail to me at readinggate0120@gmail.com
 
