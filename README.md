@@ -5,7 +5,7 @@ READ ALL BEFORE PROCEEDDING!!!
 Currently Newest Version: 49e05c4106b541bf released on 2020.12.03
 
 
-   NOTICE
+NOTICE
   1. Every time roblox is updated, you need to execute RunMe.bat again. This is because the folder name where Roblox executable is located changes when it updates itself.
   2. Please check your Roblox version at C:\Users\(Your_User_Name)\AppData\Local\Roblox\Versions. The folder name would be like "version-49e05c4106b541bf." Keep in mind that what you need to check is the NEWEST folder's name. Older folder has nothing to do with this process.
   3. If your version is different from Newest Version, Follow the instructions at part 3.
