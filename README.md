@@ -24,3 +24,10 @@ Currently Supported Auto Changer Version: 49e05c4106b541bf released on 2020.12.0
   Download changer file for your version, copy it to the directory where you put .ttf fonts and Run changer file. Make sure you have already changed the name of fonts before executing changer.
   
 Currently only English is supported. If you have any interest in localization, please send an e-mail to me at readinggate0120@gmail.com
+
+-changelog-
+Ver 1.0.1, released on Dec 04, 2020
+Fixed bug
+
+Ver 1.0.0, released on Dec 04, 2020
+Initial release
