@@ -20,6 +20,6 @@ Currently Supported Auto Changer Version: 49e05c4106b541bf released on 2020.12.0
 
 
    My version is different from what this text shows! How can I fix that?
-  Download changer file for your version and copy it to the directory where you but .ttf fonts and Run changer file. Make sure you have already changed the name of fonts before executing changer.
+   Download changer file for your version and copy it to the directory where you but .ttf fonts and Run changer file. Make sure you have already changed the name of fonts before executing changer.
   
 Currently only English is supported. If you have any interest in localization, please send an e-mail to me at readinggate0120@gmail.com
