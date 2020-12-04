@@ -1,4 +1,4 @@
-# PF_font_changer
+# Phantom Forces Font Changer
 This project helps you to change the font for phanton forces with a simple click.
 
 How to use this?
