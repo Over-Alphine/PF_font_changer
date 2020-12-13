@@ -2,7 +2,7 @@
 This project helps you to change the font for phanton forces with a simple click.
 READ ALL BEFORE PROCEEDDING!!!
 
-Currently Newest Version: 49e05c4106b541bf released on 2020.12.03
+Currently Newest Version: 7b3e1cf091a4470b released on 2020.12.12
 
 
 NOTICE
