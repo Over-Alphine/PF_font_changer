@@ -4,6 +4,7 @@ READ ALL BEFORE PROCEEDDING!!!
 
 Currently Newest Version: 7b3e1cf091a4470b released on 2020.12.12
 
+IF YOU DOWNLOADED PACKAGE BEFORE 2020.12.18, YOU MUST REDOWNLOAD PACKAGE AGAIN!
 
 NOTICE
   1. Every time roblox is updated, you need to execute RunMe.bat again. This is because the folder name where Roblox executable is located changes when it updates itself.
@@ -27,6 +28,9 @@ Currently only English is supported. If you have any interest in localization, p
 
 
 -changelog-
+
+Ver 1.2.0, released on Dec 18, 2020
+Added reverting to stock fonts option.
 
 Ver 1.1.1, released on Dec 18, 2020
 Fixed wrong settings
