@@ -1,3 +1,5 @@
+color f1
+mode con cols=80 lines=20
 @echo off
 
 :: BatchGotAdmin
