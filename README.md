@@ -27,6 +27,9 @@ Currently only English is supported. If you have any interest in localization, p
 
 
 -changelog-
+
+Ver 1.1.0, released on Dec 18, 2020
+Added single-font option
  
 Ver 1.0.1, released on Dec 04, 2020
 Fixed bug
