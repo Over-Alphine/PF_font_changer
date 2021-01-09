@@ -59,13 +59,13 @@ copy ui.ttf ui2.ttf
 copy ui.ttf ui3.ttf
 copy ui.ttf ui4.ttf
 copy ui.ttf ui5.ttf
-copy "killfeed1.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\arial.ttf"
-copy "killfeed2.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\arialbd.ttf"
-copy "ui1.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Bold.ttf"
-copy "ui2.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-It.ttf"
-copy "ui3.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Light.ttf"
-copy "ui4.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Regular.ttf"
-copy "ui5.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Semibold.ttf"
+copy "killfeed1.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\arial.ttf"
+copy "killfeed2.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\arialbd.ttf"
+copy "ui1.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-Bold.ttf"
+copy "ui2.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-It.ttf"
+copy "ui3.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-Light.ttf"
+copy "ui4.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-Regular.ttf"
+copy "ui5.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-Semibold.ttf"
 start delete.bat
 exit
 
@@ -86,13 +86,13 @@ copy ui.ttf ui2.ttf
 copy ui.ttf ui3.ttf
 copy ui.ttf ui4.ttf
 copy ui.ttf ui5.ttf
-copy "killfeed1.ttf" C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\arial.ttf"
-copy "killfeed2.ttf" C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\arialbd.ttf"
-copy "ui1.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Bold.ttf"
-copy "ui1.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-It.ttf"
-copy "ui3.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Light.ttf"
-copy "ui4.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Regular.ttf"
-copy "ui5.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Semibold.ttf"
+copy "killfeed1.ttf" C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\arial.ttf"
+copy "killfeed2.ttf" C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\arialbd.ttf"
+copy "ui1.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-Bold.ttf"
+copy "ui1.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-It.ttf"
+copy "ui3.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-Light.ttf"
+copy "ui4.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-Regular.ttf"
+copy "ui5.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c180747f2f824fb6\content\fonts\SourceSansPro-Semibold.ttf"
 start delete.bat
 exit
 
