@@ -1,8 +1,9 @@
 # Phantom Forces Font Changer
 This project helps you to change the font for phanton forces with a simple click.
+Warning:You must install Roblox with admin privilege before using this tool.
 READ ALL BEFORE PROCEEDDING!!!
 
-Currently Newest Version: 9472c087fadb4d62 released on 2021.01.21
+Currently Newest Version: 5a54208fe8e24e87 released on 2021.01.28
 
 IF YOU DOWNLOADED PACKAGE BEFORE 2020.12.18, YOU MUST REDOWNLOAD PACKAGE AGAIN!
 
