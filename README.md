@@ -1,6 +1,6 @@
 # Phantom Forces Font Changer
 
-***This project is deprecated temporarily. However, Downloading and using this tool will remain available.
+***This project is deprecated temporarily. However, Downloading and using this tool will remain available.***
 
   
 
