@@ -23,13 +23,13 @@ wget https://github.com/Over-Alphine/PF_font_changer/blob/main/Stock/SourceSansP
 wget https://github.com/Over-Alphine/PF_font_changer/blob/main/Stock/SourceSansPro-Light.ttf
 wget https://github.com/Over-Alphine/PF_font_changer/blob/main/Stock/SourceSansPro-Regular.ttf
 wget https://github.com/Over-Alphine/PF_font_changer/blob/main/Stock/SourceSansPro-Semibold.ttf
-copy "arial.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-29d2a7fa87dd447b\content\fonts\arial.ttf"
-copy "arialbd.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-29d2a7fa87dd447b\content\fonts\arialbd.ttf"
-copy "SourceSansPro-Bold.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-29d2a7fa87dd447b\content\fonts\SourceSansPro-Bold.ttf"
-copy "SourceSansPro-It.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-29d2a7fa87dd447b\content\fonts\SourceSansPro-It.ttf"
-copy "SourceSansPro-Light.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-29d2a7fa87dd447b\content\fonts\SourceSansPro-Light.ttf"
-copy "SourceSansPro-Regular.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-29d2a7fa87dd447b\content\fonts\SourceSansPro-Regular.ttf"
-copy "SourceSansPro-Semibold.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-29d2a7fa87dd447b\content\fonts\SourceSansPro-Semibold.ttf"
+copy "arial.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-c26bf9281ab64731\content\fonts\arial.ttf"
+copy "arialbd.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-c26bf9281ab64731\content\fonts\arialbd.ttf"
+copy "SourceSansPro-Bold.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-Bold.ttf"
+copy "SourceSansPro-It.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-It.ttf"
+copy "SourceSansPro-Light.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-Light.ttf"
+copy "SourceSansPro-Regular.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-Regular.ttf"
+copy "SourceSansPro-Semibold.ttf" "C:\Users\%usrname%\AppData\Local\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-Semibold.ttf"
 start stock_delete.bat
 exit
 
@@ -68,12 +68,12 @@ wget https://github.com/Over-Alphine/PF_font_changer/blob/main/Stock/SourceSansP
 wget https://github.com/Over-Alphine/PF_font_changer/blob/main/Stock/SourceSansPro-Light.ttf
 wget https://github.com/Over-Alphine/PF_font_changer/blob/main/Stock/SourceSansPro-Regular.ttf
 wget https://github.com/Over-Alphine/PF_font_changer/blob/main/Stock/SourceSansPro-Semibold.ttf
-copy "arial.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\arial.ttf"
-copy "arialbd.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\arialbd.ttf"
-copy "SourceSansPro-Bold.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Bold.ttf"
-copy "SourceSansPro-It.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-It.ttf"
-copy "SourceSansPro-Light.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Light.ttf"
-copy "SourceSansPro-Regular.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Regular.ttf"
-copy "SourceSansPro-Semibold.ttf" "C:\Program Files (x86)\Roblox\Versions\version-7b3e1cf091a4470b\content\fonts\SourceSansPro-Semibold.ttf"
+copy "arial.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c26bf9281ab64731\content\fonts\arial.ttf"
+copy "arialbd.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c26bf9281ab64731\content\fonts\arialbd.ttf"
+copy "SourceSansPro-Bold.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-Bold.ttf"
+copy "SourceSansPro-It.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-It.ttf"
+copy "SourceSansPro-Light.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-Light.ttf"
+copy "SourceSansPro-Regular.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-Regular.ttf"
+copy "SourceSansPro-Semibold.ttf" "C:\Program Files (x86)\Roblox\Versions\version-c26bf9281ab64731\content\fonts\SourceSansPro-Semibold.ttf"
 start stock_delete.bat
 exit
